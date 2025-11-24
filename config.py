@@ -1,7 +1,7 @@
 from enum import Enum
 
 
-token = '8484781817:AAFkB0_RAK77SlQwiZ5Xcjzh2GxbCxVqyWs'
+token = '8348470380:AAF3FYu-0SJu1v0UXuyjQSBXTbzuRIZICKg'
 
 db_file = "database.db"
 
